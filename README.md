@@ -1,7 +1,7 @@
 - 👋 Hi friends, I’m @beth-grace
-- 🌱 I’m currently studying at 42 Adelaide, trying to specialise in Cybersecurity with keen interest in Data Analysis and cloud software.
-- The main languages I know are C and C++, and am in the process of learning C# and ASP.NET
-- ⚡ Fun fact: ... I am, infact, a girl. *MIND BLOWN*
+- 🌱 I’m currently studying at 42 Adelaide, with a keen interest in Data Analysis and cloud software.
+- The main languages I know are C and C++
+
 
 <!---
 beth-grace/beth-grace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
