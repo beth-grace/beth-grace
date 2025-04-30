@@ -1,5 +1,5 @@
 - 👋 Hi friends, I’m @beth-grace
-- 🌱 I’m currently studying at 42 Adelaide, with a keen interest in Data Analysis and cloud software.
+- 🌱 I’m currently studying at 42 Adelaide, with a keen interest in Data Analysis and Cloud Software.
 - The main languages I know are C and C++
 
 
