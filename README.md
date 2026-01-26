@@ -1,5 +1,5 @@
 - 👋 Hi friends, I’m @beth-grace
-- 🌱 I’m currently studying at the 42 Network, with a keen interest in Data Analysis and Big-Data Engineering.
+- 🌱 I’m currently studying at 42 Lyon, with a keen interest in Data Analysis, R&D and Big-Data Engineering.
 - The languages that I am proficient in are C, C++ and Javascript/Typescript, while also dabbling in Full-Stack development and UI/UX design through HTML and CSS.
 <!--- Frameworks I have touched are Node.js through Fastify as well as using Tailwind. -->
 
