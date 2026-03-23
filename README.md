@@ -1,7 +1,7 @@
 <!--- 👋 Hi there, my name is Bethany Milford, an aspiring Embedded Software Engineer.
 - 🌱 I’m currently studying at 42 Lyon, with a keen interest in RTOS, STM32 projects and .
 - The languages that I am proficient in are C, C++ and Javascript/Typescript, while also dabbling in Full-Stack development and UI/UX design through HTML and CSS.
-<!--- Frameworks I have touched are Node.js through Fastify as well as using Tailwind. --> -->
+<!--- Frameworks I have touched are Node.js through Fastify as well as using Tailwind. -->
 
 
 <!---
